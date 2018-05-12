@@ -1,0 +1,28 @@
+_repo: Stille-Helden_29738
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boy-Ed, Ida
+    alias: Ed, Ida Cornelia Ernestina
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '34124'
+    url: http://www.gutenberg.org/2009/agents/34124
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29738'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+title: 'Stille Helden: Roman'
+url: http://www.gutenberg.org/ebooks/29738
